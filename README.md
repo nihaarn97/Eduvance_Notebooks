@@ -1,2 +1,2 @@
-# Eduvance_Notebooks
-Data Science projects that I worked on during my Eduvance internship
+# Eduvance Technical Internship
+#### Notebooks for Data Science Projects that I worked on during my summer interenship at Eduvance
